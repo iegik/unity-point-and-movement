@@ -1,0 +1,2 @@
+build:
+	@vc --cwd build
